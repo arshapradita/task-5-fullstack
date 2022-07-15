@@ -15,7 +15,9 @@ laravel, Composer, Visual Studio-code
 
 ## Clone Project Repositori
 
---
+```bash
+    git clone git@github.com:arshapradita/task-5-fullstack.git
+```
 
 ## Cara Install Project Repositori
 
